@@ -22,7 +22,7 @@ Divvy'd Tasks:
  - Quick paragraph, just say why.
 - Format site if you have time.
 
-2. 3 Sections. Take the topic from class and the relevant chapter from the book. Talk about how it relates to the movie as much as possible, critically looking at what the movie may be trying to say, and the implications of what it has to present.
+2. 3 Sections. Take the topic from class and the relevant chapter from the book. Talk about how it relates to the movie as much as possible, critically looking at what the movie may be trying to say, and the implications of what it has to present. Please write your section in a markdown doc [here's a cheatsheet to help you out](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
  - Freedom of Speech (Chp 3): Synella
  - Crime (Chp 7): Adam
  - Privacy (Chp 5/6): Ming
