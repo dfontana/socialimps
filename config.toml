@@ -1,0 +1,4 @@
+baseurl = "dfontana.github.io/socialimps/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-nederburg-theme"
