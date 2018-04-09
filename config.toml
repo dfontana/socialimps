@@ -1,4 +1,4 @@
-baseurl = "dfontana.github.io/socialimps/"
+baseurl = "/"
 title = "Black Mirror: Hated in the Nation"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
