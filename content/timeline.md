@@ -13,6 +13,7 @@ type = "post"
 Starting May 15th in the not-so-distant future (perhaps 50ish years), the episode spans a couple of days following a police detective and her sidekick in London. The two are searching to solve a string of murders seemingly related to Social Media.
 
 [Synopsis](http://www.imdb.com/title/tt5709236/). Key characters:
+
 - Karin Parke: Police detective, DCI
 - Blue Colson: Shadowing Parke, used to work for "tech crime"
 - Shaun Li: [NCA](https://en.wikipedia.org/wiki/National_Crime_Agency) officer
@@ -23,7 +24,7 @@ The plot is as follows.
 
 ## Timeline (With time stamps)
 
-### 00:00 (Morning Day 1)
+### **00:00 (Day 1)**
 
 - Detective Karin Parke walks home, entering her apartment.
 - Turns on the news, where a controversial story about Disability Benefits is being covered. A News Columnist - Jo Powers - is taking backlash for unpopular views on the law/actions of a "wheelchair Martyr." 20,000 people have signed a petition for her resignation.
@@ -33,7 +34,7 @@ The plot is as follows.
   - Pedestrians insult Jo on her walk home, for her writings. As she arrives at her apartment, she recieves a cake delivery.
 - Inside, Jo finds the cake has been frosted with "Fucking Bitch." Her and her husbands frustrations with the matter are evident.
 
-That night:
+#### That night:
 
 - Jo is browsing the computer, looking at comments on her article. Most comments and twitter notifications are copious amounts of hate.
   - It is here the "#DeathTo" tweet is first seen, but not made a point of
@@ -52,7 +53,7 @@ That night:
   - Blue says "these things (phones) absorb us, they know everything about us."
   - Blue left forensics due to seeing child torturing and murdering photos/videos.
 
-## 13:30 (Morning Day 2)
+### **13:30 (Day 2)**
 
 - News on reporting on Jo's Death. The ticker has a headline "ECHR rules 'cookies' have human rights"
 - Reviewing CCTV; no one came in or out. Rear one is broken though.
@@ -73,12 +74,12 @@ That night:
 - Give the teacher a "Caution" on the basis of the "Offensive Communications Act".
   - Clearly not well enforced. Teacher asks if the others of the cake will be punished. Teacher says she didn't do anything. Karin tells her to start a thread about it.
 
-That after noon:
+#### That afternoon
 
 - Karin: "We're arresting the husband, don't wallow in that. The internet will be pissed at someone else today."
   - Tusk is the new target on twitter. More hate and #DeathTo.
 
-That night:
+#### That night
 
 - Tusk backstage of performance
 - Camera watching as he's about to smoke marijuana; was about to freak but it's legal.
@@ -87,7 +88,7 @@ That night:
 - At hospital an ADI is pulled from his head while in the MRI, killing him.
 - Shaun Li of the National Crime Agency is introduced, inspecting Tusk's dead body and the ADI.
 
-## 27:00 (Morning Day 3)
+### **27:00 (Day 3)**
 
 - Karin and Blue visit autopsy to find an ADI that had bored into Jo.
   - Attacked the Brain's Pain center causing dire agony; enough to do anything to stop it.
@@ -103,7 +104,7 @@ That night:
   - Must be within 10-20 meters to do this.
 - Can't shutdown the ADIs without Gov't Approval and risk of ecological disaster.
 
-## 35:00 (Afternoon Day 3)
+#### That afternoon (35:00)
 
 - Karin says should go to NCA at this point, but doesn't want to give them the case. That is where Shaun Li appears - revealing the second death (Tusk).
 - Both victims of "online shitstorms" (Fire storms)
@@ -122,7 +123,7 @@ That night:
   - Swarm of thousands stream towards the house; they take shelter in Bath. Bees working together, eventually killing Clara.
 - Bee's dispurse, body taken away.
 
-## 55:00 (Night Day 3)
+#### That night (55:00)
 
 - Debrief at HQ, Ramsus is there with Karin, Blue, and Li.
   - Bees aren't being steered, too many at once. They are controlling the system
@@ -134,7 +135,7 @@ That night:
 - Ramsus is locked out. Blue determined to look inside an ADI.
 - Nick comes in with some leads on who would have had access to the ADI systems. Government employee list.
 
-## 60:00 (Morning Day 4)
+### **60:00 (Day 4)**
 
 - Public learns #DeathTo link to murders.
   - News sensationalizing; tracking top 5 up for bat...
@@ -143,7 +144,7 @@ That night:
   - "People can get away with it since no one knows who did it"
   - How culpable are people?
 
-All at once the following happens:
+#### All at once the following happens
 
 - Blue inspects the ADI's software contents
   - Finds a manifesto "the teeth of consequences" written by Garrett with a selfie attached
@@ -159,7 +160,7 @@ All at once the following happens:
   - After attempting to blow up the hive, the bees don't die and they kill the soldiers.
   - Can either knock out all hives and kill environment, or take victim a day.
 
-Inspecting the Manifesto:
+#### Inspecting the Manifesto
 
 - Garrett - "Thanks to the technologal revolution we have the power to rage and accuse, but bile without consequence. Only if we recognize the power…" … theme is he wants people to face the consequences of what they say and do.
 - Nick tweets #DeathTo with the picture of Garrett.
@@ -168,7 +169,7 @@ Inspecting the Manifesto:
   - Inconsistency: Said Garrett left the country 6 months ago, yet they nearly missed him inside the country? Or was this just another ploy to mislead them?
 - At Garrett's compound (hidden just outside Granular), Blue finds a burned harddrive in the forge that lets Ramsus regain control.
 
-At Rasmus's Lab:
+#### At Rasmus's Lab
 
 - 3 minutes left to 5pm. Rasmus has the source to take back control. Noticed a new file.
 - It's a list of IMEI numbers. 387,000 numbers. List of all people who used the HashTag. The backdoor allowed Garrett to get this info from the Government DB.
@@ -179,7 +180,7 @@ At Rasmus's Lab:
   - They regain control of system
   - And then it goes right offline again. End game has been triggered.
 
-Images of the fallout ensues.
+#### The Fallout
 
 - Garrett is changing his identity, dumps all his stuff in a lake - in a foreign country?
 - Warehouse of dead bodies
