@@ -12,7 +12,7 @@ type = "post"
 Intent Behind *Black Mirror*
 ----------------------------
 
-[*Black Mirror*][bm_imdb], created by Charlie Brooker, is a series of variable length television episodes exploring the darker side of society's connections with technology. Each episode is independent of the others, set in the "alternative present or near future", with a different story and intent, each examin Brooker describes the "black mirror" referenced to in the title as ["the one you'll find on every wall, on every desk, in the palm of every hand: the cold, shiny screen of a TV, a monitor, a smartphone"][guardian]. One reviewer (for a different episode) described the show as a whole as showcasing that ["Technology is exciting, but people are awful..."][verge-nosedive]. Brooker also states that in a way, if technology is a drug, *Black Mirror* explains the side effects of that drug.
+[*Black Mirror*][bm_imdb], created by Charlie Brooker, is a series of variable length television episodes exploring the darker side of society's connections with technology. Each episode is independent of the others, set in the "alternative present or near future", with a different story and intent. Brooker describes the "black mirror" referenced to in the title as ["the one you'll find on every wall, on every desk, in the palm of every hand: the cold, shiny screen of a TV, a monitor, a smartphone"][guardian]. One reviewer (for a different episode) described the show as a whole as showcasing that ["Technology is exciting, but people are awful..."][verge-nosedive]. Brooker also states that in a way, if technology is a drug, *Black Mirror* explains the side effects of that drug.
 
 Intent Behind *Black Mirror: Hated in the Nation*
 -------------------------------------------------
