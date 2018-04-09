@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intent on Black Mirror: Hated in the Nation</title>
+    <link>dfontana.github.io/socialimps/categories/intent/</link>
+    <description>Recent content in Intent on Black Mirror: Hated in the Nation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="dfontana.github.io/socialimps/categories/intent/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Authors Intent</title>
+      <link>dfontana.github.io/socialimps/intent/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dfontana.github.io/socialimps/intent/</guid>
+      <description>This is the template for Intent related posts. Simply copy this template, write your post here (in markdown), and then up at the very top edit the metadata. You should change the date you wrote it, change draft to false, and set the title of your post. Also change the author to your name.</description>
+    </item>
+    
+  </channel>
+</rss>
