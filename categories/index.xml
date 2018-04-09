@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Black Mirror: Hated in the Nation</title>
-    <link>dfontana.github.io/socialimps/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Black Mirror: Hated in the Nation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="dfontana.github.io/socialimps/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Intent</title>
-      <link>dfontana.github.io/socialimps/categories/intent/</link>
+      <link>/categories/intent/</link>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>dfontana.github.io/socialimps/categories/intent/</guid>
+      <guid>/categories/intent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minutes</title>
-      <link>dfontana.github.io/socialimps/categories/minutes/</link>
+      <link>/categories/minutes/</link>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>dfontana.github.io/socialimps/categories/minutes/</guid>
+      <guid>/categories/minutes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notes</title>
-      <link>dfontana.github.io/socialimps/categories/notes/</link>
+      <link>/categories/notes/</link>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>dfontana.github.io/socialimps/categories/notes/</guid>
+      <guid>/categories/notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plot Timeline</title>
-      <link>dfontana.github.io/socialimps/categories/plot-timeline/</link>
+      <link>/categories/plot-timeline/</link>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>dfontana.github.io/socialimps/categories/plot-timeline/</guid>
+      <guid>/categories/plot-timeline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech List</title>
-      <link>dfontana.github.io/socialimps/categories/tech-list/</link>
+      <link>/categories/tech-list/</link>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>dfontana.github.io/socialimps/categories/tech-list/</guid>
+      <guid>/categories/tech-list/</guid>
       <description></description>
     </item>
     

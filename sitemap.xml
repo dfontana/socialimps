@@ -3,86 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>dfontana.github.io/socialimps/notes/</loc>
+    <loc>/notes/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>dfontana.github.io/socialimps/intent/</loc>
+    <loc>/intent/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>dfontana.github.io/socialimps/timeline/</loc>
+    <loc>/timeline/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>dfontana.github.io/socialimps/techlist/</loc>
+    <loc>/techlist/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>dfontana.github.io/socialimps/minutes/meeting4_8/</loc>
+    <loc>/minutes/meeting4_8/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>dfontana.github.io/socialimps/</loc>
-    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>dfontana.github.io/socialimps/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>dfontana.github.io/socialimps/categories/intent/</loc>
+    <loc>/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dfontana.github.io/socialimps/minutes/</loc>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/intent/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dfontana.github.io/socialimps/categories/minutes/</loc>
+    <loc>/minutes/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dfontana.github.io/socialimps/categories/notes/</loc>
+    <loc>/categories/minutes/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dfontana.github.io/socialimps/categories/plot-timeline/</loc>
+    <loc>/categories/notes/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dfontana.github.io/socialimps/credit/</loc>
-  </url>
-  
-  <url>
-    <loc>dfontana.github.io/socialimps/tags/</loc>
+    <loc>/categories/plot-timeline/</loc>
+    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dfontana.github.io/socialimps/members/</loc>
+    <loc>/credit/</loc>
   </url>
   
   <url>
-    <loc>dfontana.github.io/socialimps/categories/tech-list/</loc>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/members/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tech-list/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
