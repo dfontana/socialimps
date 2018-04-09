@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Black Mirror: Hated in the Nation</title>
-    <link>/</link>
+    <link>https://dfontana.github.io/socialimps/</link>
     <description>Recent content on Black Mirror: Hated in the Nation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dfontana.github.io/socialimps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Notes on the Movie</title>
-      <link>/notes/</link>
+      <link>https://dfontana.github.io/socialimps/notes/</link>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/notes/</guid>
+      <guid>https://dfontana.github.io/socialimps/notes/</guid>
       <description>Synopsis and major characters (IMDb): In near-future London, police detective Karin Parke, and her tech-savvy sidekick Blue, investigate a string of mysterious deaths with a sinister link to social media.
  Karin Parke - DCI? Blue Colson - shadowing Parke, used to work for &amp;ldquo;tech crime&amp;rdquo; Shaun Li - National Crime Agency officer Rasmus Sjolberg - head of the ADI program Garrett Scholes - behind #DeathTo, former employee working on ADI</description>
     </item>
     
     <item>
       <title>Authors Intent</title>
-      <link>/intent/</link>
+      <link>https://dfontana.github.io/socialimps/intent/</link>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/intent/</guid>
+      <guid>https://dfontana.github.io/socialimps/intent/</guid>
       <description>This is the template for Intent related posts. Simply copy this template, write your post here (in markdown), and then up at the very top edit the metadata. You should change the date you wrote it, change draft to false, and set the title of your post. Also change the author to your name.</description>
     </item>
     
     <item>
       <title>Plot Timeline</title>
-      <link>/timeline/</link>
+      <link>https://dfontana.github.io/socialimps/timeline/</link>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/timeline/</guid>
+      <guid>https://dfontana.github.io/socialimps/timeline/</guid>
       <description>This is the template for Intent related posts. Simply copy this template, write your post here (in markdown), and then up at the very top edit the metadata. You should change the date you wrote it, change draft to false, and set the title of your post. Also change the author to your name.</description>
     </item>
     
     <item>
       <title>Technology List</title>
-      <link>/techlist/</link>
+      <link>https://dfontana.github.io/socialimps/techlist/</link>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/techlist/</guid>
+      <guid>https://dfontana.github.io/socialimps/techlist/</guid>
       <description>This is the template for Intent related posts. Simply copy this template, write your post here (in markdown), and then up at the very top edit the metadata. You should change the date you wrote it, change draft to false, and set the title of your post. Also change the author to your name.</description>
     </item>
     
     <item>
       <title>Initial Meeting</title>
-      <link>/minutes/meeting4_8/</link>
+      <link>https://dfontana.github.io/socialimps/minutes/meeting4_8/</link>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/minutes/meeting4_8/</guid>
+      <guid>https://dfontana.github.io/socialimps/minutes/meeting4_8/</guid>
       <description>Actions Completed  Caught up with one another on the show Listed topics up to Tuesday.  Discussed which were relevant (All but IP)  Divvy&amp;rsquo;d Tasks for Tuesday  Assigned Tasks Topic Posts Take the topic from class and the relevant chapter from the book. Talk about how it relates to the movie as much as possible, critically looking at what the movie may be trying to say, and the implications of what it has to present.</description>
     </item>
     
     <item>
       <title>Site Resource Credits</title>
-      <link>/credit/</link>
+      <link>https://dfontana.github.io/socialimps/credit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/credit/</guid>
+      <guid>https://dfontana.github.io/socialimps/credit/</guid>
       <description> Images  Black mirror cover image, from the Independent as cited from NetFlix. Black mirror Favicon: TODO  </description>
     </item>
     
     <item>
       <title>Team Members</title>
-      <link>/members/</link>
+      <link>https://dfontana.github.io/socialimps/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/members/</guid>
+      <guid>https://dfontana.github.io/socialimps/members/</guid>
       <description> Adam Bettigole Dylan Fontana Samuel Goldman Synella Gonzales Ming Xu  </description>
     </item>
     
