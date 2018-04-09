@@ -1,8 +1,14 @@
-<html>
-  <body>
-  <a href="index.html">Home</a>
++++
+date = "2018-04-08"
+draft = false
+title = "Notes on the Movie"
 
-  <h4>Synopsis and major characters (<a href="http://www.imdb.com/title/tt5709236/">IMDb</a>):</h4>
+categories = ["Notes"]
+weight = 1
+type = "post"
++++
+
+<h4>Synopsis and major characters (<a href="http://www.imdb.com/title/tt5709236/">IMDb</a>):</h4>
   <p>In near-future London, police detective Karin Parke, and her tech-savvy sidekick Blue, investigate a string of mysterious deaths with a sinister link to social media.</p>
   <ul>
     <li>Karin Parke - DCI?</li>
@@ -253,5 +259,3 @@
     <li>Cake was crowd funded</li>
     <li>Officers were able to get Clara's roommate's number</li>
   </ul>
-  </body>
-</html>

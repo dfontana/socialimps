@@ -1,0 +1,7 @@
+{{ define "main" }}
+  {{ if and (isset .Site.Params "homeimage") .Site.Params.homeimage }}
+    <div class='banner-image lazy lazy-bg-image' data-background="{{ .Site.Params.homeimage | absURL }}"></div>
+  {{ end }}
+  {{ partial "portfolio.html" . }}
+  {{ partial "pagination.html" . }}
+{{ end }}
