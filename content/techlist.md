@@ -46,13 +46,17 @@ type = "post"
 - Categories: Similar / Fictional
 - Realistic? There exists extensive databases today that could be considered close toa  national record of every citizen of the country. For example, [Estonia has a huge undertaking](https://www.newyorker.com/magazine/2017/12/18/estonia-the-digital-republic) turning all their government services digital - even including the concept of citizenship. India's citizen database [aadhaar](https://uidai.gov.in/your-aadhaar/about-aadhaar.html) serves as an identifying system for people of the country. As such these systems could be seen as similar to what is seen in Black Mirror. The deviation, however, is in how extreme the version in the episode portrays - tracking each citizens positions independently. While it is possible for emergency services to [locate a caller from their cellular signal](http://www.govtech.com/dc/articles/911-Dispatchers-Use-New-Technologies-to-Quickly-Locate-Cellphone-Callers.html), keeping this within a readily accessible database is not quite there yet.
 
+## Magnetic Ports
+- Timestamp: 74:00
+- Description: Blue's USB in the final moments is capable of connecting between computers using a purely magnetic interface. She uses this to transfer code from Rasmus' laptop to hers.
+- Category: Similar
+- Realistic? Magnetic power connections were actually a feature of Apple's Macbook that was [killed off](https://www.theverge.com/2016/10/27/13441150/rip-magsafe-apple-macbook-pro-charging-cable-usb-c) in their more recent models circa the time of this episode. MagSafe was arguably one of the more favorable features of the MacBook, since it saved the device from being tripped over/ripped off tables. Why it hasn't made a return yet is a mystery, but needless to say, [others have tried to replace them](http://bgr.com/2016/07/15/iphone-magnetic-charger-amazon-sale/). Extending this to other connections such as USB may not be all that impossible.
 
-## 46:00 
-## 55:00
-Security cameras on top of building watches over the area around Clara's Apt.
-- Computer vision for facial recognition in the ADIs
-- Government classified surveillance using CCTV, Traffic Cam, and now ADIs
-- Tusk video camera
+## Big Brother is Watching
+- Timestamps: 46:00 & 55:00
+- Description: Several times throughout the episode we see security cameras take the highlight of the screen. There's the one that catches Tusk smoking, another over Jo's door, the one over Clara's Apartment, and of course the several hundred thousand ADIs. At one point Blue accuses Li of over government surveilling - through CCTV and the Traffic Cams. 
+- Category: Existing
+- Realistic? Most of the surveilling we see today comes in the form of CCTV and Traffic Cams. An article [posted by the BBC](http://www.bbc.com/news/magazine-22274770) a few years prior to this episode discussed the rise of CCTV usage in America - and that only 40% approved adding even more to our streets. It's not outlandish to think the Government has access to all of these, with other far more reaching programs known to exist such as [PRISM](https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data). 
 
 
 ## 11:00
@@ -64,5 +68,3 @@ Security cameras on top of building watches over the area around Clara's Apt.
 ## 70:00
 - Blue uses a geotag from a photo in the manifesto to find Garrett
 
-# 74:00
-- Blue's USB attaches with Magnets. Want. Badly.
