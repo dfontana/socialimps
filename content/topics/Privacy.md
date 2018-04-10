@@ -1,6 +1,13 @@
-+++ date = "2018-04-10" draft = false title = "Privacy" author = "Ming"
++++
+date = "2018-04-10"
+draft = false
+title = "Privacy"
+author = "Ming"
 
-categories = ["Topics"] weight = 2 type = "post" +++
+categories = ["Topics"]
+weight = 2
+type = "post" 
++++
 
 ##  Privacy in *Black Mirror: Hated in the Nation*
 

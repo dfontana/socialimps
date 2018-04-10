@@ -1,6 +1,13 @@
-+++ date = "2018-04-10" draft = false title = "Crime" author = "Adam"
++++ 
+date = "2018-04-10" 
+draft = false 
+title = "Crime"
+author = "Adam"
 
-categories = ["Topics"] weight = 2 type = "post" +++
+categories = ["Topics"] 
+weight = 2
+type = "post"
++++
 
 ##  Crime in *Black Mirror: Hated in the Nation*
 

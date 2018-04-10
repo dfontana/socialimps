@@ -1,3 +1,14 @@
++++
+date = "2018-04-10"
+draft = false
+title = "Freedom Of Speech"
+author = "Synella"
+
+categories = ["Topics"]
+weight = 2
+type = "post"
++++
+
 # Freedom of Speech in Black Mirror: Hated in the Nation
 The topic of Freedom of Speech is heavily critiqued in this episode of the British anthology series, Black Mirror.
 The crux of this episode revolves around a social media hashtag #deathto. The original intent of this hashtag
