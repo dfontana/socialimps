@@ -58,13 +58,20 @@ type = "post"
 - Category: Existing
 - Realistic? Most of the surveilling we see today comes in the form of CCTV and Traffic Cams. An article [posted by the BBC](http://www.bbc.com/news/magazine-22274770) a few years prior to this episode discussed the rise of CCTV usage in America - and that only 40% approved adding even more to our streets. It's not outlandish to think the Government has access to all of these, with other far more reaching programs known to exist such as [PRISM](https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data). 
 
+## eCigarettes
+- Timestamp: 11:00
+- Description: While driving Blue home, Karin uses an electronic cigarette. Blue, who doesn't like the concept, rolls down her window in response.
+- Category: Existing
+- Realistic? The portrayal is fairly true to reality. Electronic cigarettes do produce harmful secondhand gases, much like their non-electronic counterparts do, as found in a study [by the CDC](https://www.cdc.gov/pcd/issues/2017/16_0567.htm). Blue rolling down her window in response to the usage was very much the right response. Additionally, it's not unfair to say the usage of eCigarettes is out of place: the surgeon general found more than a [third of young adults have tried eCigarettes](https://e-cigarettes.surgeongeneral.gov/getthefacts.html). The only thing thats out of place with this representation, is that Karin is never seen again using it. Typically these devices retain their addictive nicotine components. Given the situation Karin finds herself in, however, it may just be that she doesn't have the time for another break.
 
-## 11:00
-- Karin smokes an e-Cig
+## GeoTagging from Photos
+- Timestamp: 70:00
+- Description: The only way the team was able to discover Garrett's location (and subsequently the means to realize the national disaster) was through a rogue photo embedded in Garrett's Manifesto PDF. Blue is able to use the metadata from this image to figure out where it was taken, and from that, determine where Garrett's hideout was.
+- Category: Existing, and very plausible
+- Realistic? It's fairly well known that images do store additional metadata, often referred to as EXIF. [Norton antivirus](https://us.norton.com/internetsecurity-how-to-how-to-remove-gps-and-other-metadata-locations-from-photos.html), for example, even has a blog post on how to remove some of the more revealing pieces of data tracked with images - such as location. What really was questionable was whether or not an image stores its metadata within a PDF document. PDFs are a container format, which support the possibility - however images would be considered a special case where they typically are stored in their raw form (to be reconstructed by the PDF viewer). [The spec](https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/PDF32000_2008.pdf), however, indicates that in PDFs over version 1.4 can include metadata streams (see 14.3.2), which for images (section 8.9) is included as part of their embedding. So it is very much possible Blue was able to extract metadata information for an image from within a PDF document.
 
-## 60:00
-- Blue can wirelessly connect to the drone from a pad. "Pairing". Bluetooth?
-
-## 70:00
-- Blue uses a geotag from a photo in the manifesto to find Garrett
-
+## ADI Connection Pad
+- Timestamp: 60:00
+- Description: At her lab, Blue was able to connect to an ADI drone directly using a light up pad connected to her computer. With the drone placed ontop of it, it paired to her computer and she was able to access its filesystem.
+- Category: Existing? Fictional?
+- Realistic: While the protocol for ADI connections is not excplicitly stated, it could be assumed Bluetooth is being used (given the common phrasing "pairing devices" was seen on her laptop). Its a little disturbing how her seemingly generic pad is able to pair right with the ADI (the ADI not rejecting the connection). As the [National Insitute of Standards and Technology](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-121r1.pdf) suggests, however, the connection between devices are secured - not necessarily who begins the pairing process. It may just be plausible Blue could use this generic device to make a connection. It is also possible to assume the device was specialized to ADIs, and Rasmus provided it to her for diagnosing the drone. It's unclear where this device sits within the realm of possibilities, but if it is a non-specific connection device it's a bit over the top to have a dedicated pad for Bluetooth when most laptops today have it built right in, or a simple dongle to enable it. Why the need for all the bulk?
