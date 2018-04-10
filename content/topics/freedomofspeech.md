@@ -10,7 +10,7 @@ the hashtag leads to the top "hated" person (based on number of people using the
 which come in the form of bees that can burrow into the target's brain. 
 
 This episode brings light to a very serious topic - cyberbullying/cyberharrassment. While social media is meant to connect people in a positive way,
-often times people abuse the anonyminity and protection that the screen gives them. Rather than confronting issues face-to-face, where there is little to no time
+often times people abuse the anonymity and protection that the screen gives them. Rather than confronting issues face-to-face, where there is little to no time
 to think about your actions, social media offers two "flavors" of interaction:
 
 1. The safety of social media sites mean that people can specifically craft their posts to hit hard.
