@@ -22,46 +22,41 @@ type = "post"
 [Ars Technica reports](https://arstechnica.com/cars/2018/01/2017-was-the-best-year-ever-for-electric-vehicle-sales-in-the-us/) 200,000 electric vehicles were sold in 2017... while 17 million cars were sold overall. We still have a while to go from where Black Mirror sees yet.
 [Concept cars](http://www.businessinsider.com/concept-cars-of-the-future-photos-2016-7#because-the-car-is-driverless-the-steering-wheel-will-retract-back-into-the-dashboard-when-its-not-in-use-16) have shown features similar to the NCA one such as the steering wheel-less approach, swivel chairs, and touch controls; but these are only concepts. The closest thing we have to what the NCA car could do is the ability to "change" lights between the car and its destination. Ambulances and other emergency vehicles, for example, [are able to change lights with a pre-emption device](https://www.tranbc.ca/2014/01/30/5-things-that-make-traffic-signals-change/) when responding to problems.
 
+## Smarter Phones
+- Timestamps: 19:30, 35:00, & 43:00
+- Description: Karin and Blue have distinctively different phones. Karin's is an older looking, big bezeled, "bulkier" phone. Blue's is a near bezel-less, solid metal, large screened device (whose screen also happens to be transparent). Both devices happen to be on a 4G connection, and Blue uses a bluetooth dongle. At one point, Blue swaps phone numbers by touching screens with someone else.
+- Category: Existing, almost antiquated except for blue's phone which is a bit more fictional.
+- Realistic? Karin's cellphone is pretty much any device from the mid-2000s, with nothing that stuck out in particular. The true points of interest is that their cellular technology is still 4G in the near future (not even LTE), whereas 5G is [already entering testing in New York and Salt Lake City](https://spectrum.ieee.org/tech-talk/telecom/wireless/the-national-science-foundation-announces-pawr-test-platform-cities). Given they envisioned a see through cellphone, its surprising they saw no future version of cellular network - a minor detail. Additionally, the idea of touching phones to swap contacts was something [tried with NFC 5 years prior to this movie](https://techcrunch.com/2011/09/29/new-nfc-spec-makes-it-easier-to-swap-contacts-save-data-to-phones/), but never really caught on. NFC payment technology is somewhat gaining traction with Apple Pay or Android Pay, but even then [Goldman Sachs found adoption was underwhelming with < 10% adopting it](http://fortune.com/2017/08/04/apple-pay-samsung-mobile-payments/). Bluetooth ear pieces, such as the one used by Blue, aren't quite as common today as they may have been in the 2000s, but they remain existent today. Finally, the transparent display envisioned in Black Mirror has been something underworks for quite some time, but have yet to gain traction. Samsung attempted the [monitor in 2012](https://www.theverge.com/2012/8/27/3271060/samsung-transparent-commercial-displays-availability), Panasonic revealing [another in 2016](https://www.theverge.com/2016/1/7/10733626/panasonic-transparent-screen-display-ces-2016). The technology has potential applications at [retail locations](http://www.planar.com/innovations/transparent-oled/), but its still quite a ways off from where the show sees it due to costs or not being needed.
 
-## 11:00
-- Karin smokes an e-Cig
+## Transparent and Touch Laptop
+- Timestamp: 41:00 among others
+- Description: Blue's laptop has a transparent display (akin to the smartphone discussion), as well as a completely touch capacitive keyboard.
+- Categories: Existing / Upcoming
+- Realistic? Touch capacitive buttons are not new, this sample toy [product from 2014](https://www.sparkfun.com/products/retired/12017) or select laptops with touch capacitive function keys can show this. What's upcoming about the technology, however, is its usage for the entire keyboard in a manner that looks adaptable. A [patent this year](https://wccftech.com/new-apple-patent-details-keyboard-with-touch-based-capacitive-keys/) was filed by Apple for a technology very similar to this. It could be very possible laptops soon have this style keyboard, but for the time being, the implementation seen in Black mirror remains fiction.
 
+## Autonomous Drone Insects
+- Timestamps: Throughout, but 29:00 mostly.
+- Description: Drones the size of insects that are fully robotic, autonomous, and capable of pollinating flowers. They have the ability to build hives to replicate themselves, power themselves fully from solar, and contain rudimentary vision / pattern recognition.
+- Category: In Research / Fictional
+- Realistic? This is still far from where we are now. In 2017 the smallest drone made was a [Dragonfly augmented](https://spectrum.ieee.org/automaton/robotics/industrial-robots/draper-dragonfleye-project) with circuitry to create a cyborg drone. Some drones developed at Harvard can get as small as [a penny](https://www.popsci.com/article/technology/rise-insect-drones), but lack the capabilities as seen in Black Mirror. The size of the drone is what's holding back this technology the most compared to as it is portrayed in the movie, as we've seen how drones can do what was shown in the movie. For example, the way they can work in unison to hold a shape was recently demonstrated at the [South Korean Olympic Opening Ceremony](https://www.wired.com/story/olympics-opening-ceremony-drone-show/).
 
-## 15:00
-- Blue's laptop has a transparent display from the front (not the back, though). The keyboard is all touch based, no physical keys.
-## 41:00
-- Blue's using FireFox to browse the web. Pocket is still a thing :S
-
-## 19:30
-- Karin's Phone: 
-  - Older looking (big bezels, bulkier)
-  - Can look up an individual on their cellphones, know most things about them. Name, Gender, Bithdate, Place of Birth, ID#, Current City, Occupation, and Company
-- Blue's Phone:
-  - Slim, very small bezels, semi-transparent from both sides, "look up social feeds"
-- Oddly enough, both only have 4G still. Not even LTE.
-## 35:00
-- Swap phone numbers by touching phone screens
-## 43:00
-- Blue is using a bluetooth ear dongle. So 2000s.
-
-
-## 24:00
-- Security Cameras at the Performance Venue for Tusk
-- MRI machine scans him, accidently killing him.
-- ADI: Autonomous Drone Insect, in this case a bee designed to pollinate
-  - 29:00 The bees are shown working in sync, like the South Korean Olympic ones.
-  - 30:00 They are solar, don't eat, just move from plant to plant brushing pollen from one to one. They have a basic vision sensor with rudimentary pattern recognition to navigate autonomously. Build their own 3D printing Hives to reproduce themselves.
-
-## 41:00
-- Citizen Database knowing everything from Karen's phone + current location. Are able to look up related people (like roommates) phone numbers...
+## Citizen Database
+- Timestamps: 19:30 & 41:00
+- Description: In the episode Karin and Blue take advantage of a Citizen Database that knows mostly anything they need about their people, even including their roommates cellphone number or the approximate location of any person at any given time. They're even able to look up someone on their cellphone.
+- Categories: Similar / Fictional
+- Realistic? There exists extensive databases today that could be considered close toa  national record of every citizen of the country. For example, [Estonia has a huge undertaking](https://www.newyorker.com/magazine/2017/12/18/estonia-the-digital-republic) turning all their government services digital - even including the concept of citizenship. India's citizen database [aadhaar](https://uidai.gov.in/your-aadhaar/about-aadhaar.html) serves as an identifying system for people of the country. As such these systems could be seen as similar to what is seen in Black Mirror. The deviation, however, is in how extreme the version in the episode portrays - tracking each citizens positions independently. While it is possible for emergency services to [locate a caller from their cellular signal](http://www.govtech.com/dc/articles/911-Dispatchers-Use-New-Technologies-to-Quickly-Locate-Cellphone-Callers.html), keeping this within a readily accessible database is not quite there yet.
 
 
 ## 46:00 
-Security cameras on top of building watches over the area around Clara's Apt.
-
 ## 55:00
+Security cameras on top of building watches over the area around Clara's Apt.
 - Computer vision for facial recognition in the ADIs
 - Government classified surveillance using CCTV, Traffic Cam, and now ADIs
+- Tusk video camera
+
+
+## 11:00
+- Karin smokes an e-Cig
 
 ## 60:00
 - Blue can wirelessly connect to the drone from a pad. "Pairing". Bluetooth?
