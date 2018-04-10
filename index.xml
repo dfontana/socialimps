@@ -6,10 +6,38 @@
     <description>Recent content on Black Mirror: Hated in the Nation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dfontana.github.io/socialimps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Crime</title>
+      <link>https://dfontana.github.io/socialimps/topics/crime/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfontana.github.io/socialimps/topics/crime/</guid>
+      <description>Crime in Black Mirror: Hated in the Nation In chapter 7 of the textbook, there is a section on hacking that contains a case study about the Firefox extension, Firesheep. The extension, launched in 2010, makes sidejacking easy, even for people without a technical understanding of what they are actually doing. Sidejacking is the act of hijacking an open web session by capturing the user&amp;rsquo;s cookie. This allows the sidejacker to perform actions on the website, while acting as the user.</description>
+    </item>
+    
+    <item>
+      <title>Freedom Of Speech</title>
+      <link>https://dfontana.github.io/socialimps/topics/freedomofspeech/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfontana.github.io/socialimps/topics/freedomofspeech/</guid>
+      <description>Freedom of Speech in Black Mirror: Hated in the Nation The topic of Freedom of Speech is heavily critiqued in this episode of the British anthology series, Black Mirror. The crux of this episode revolves around a social media hashtag #deathto. The original intent of this hashtag was for every day users of this social media site to express their feelings towards a particular individual. This seems harmless at first - in the United States of America, the First Amendment protects the citizens&amp;rsquo; right to freedom of speech.</description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://dfontana.github.io/socialimps/topics/privacy/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfontana.github.io/socialimps/topics/privacy/</guid>
+      <description>Privacy in Black Mirror: Hated in the Nation The TV series Black Mirror covers different topics in each episode, including security, data science and robotics. Black Mirror: Hated in the Nation, which is the last episode of this TV series, talks about a controversial topic — privacy.
+After the extinction of bees, the government in the episode invented autonomous bees, named Autonomous Drone Insects (ADIs), to mimic the behavior of bees and act as pollinators across the UK.</description>
+    </item>
     
     <item>
       <title>Maker&#39;s Intent</title>
@@ -56,37 +84,6 @@ Synopsis. Key characters:
       
       <guid>https://dfontana.github.io/socialimps/minutes/meeting4_8/</guid>
       <description>Actions Completed  Caught up with one another on the show Listed topics up to Tuesday.  Discussed which were relevant (All but IP)  Divvy&amp;rsquo;d Tasks for Tuesday  Assigned Tasks Topic Posts Take the topic from class and the relevant chapter from the book. Talk about how it relates to the movie as much as possible, critically looking at what the movie may be trying to say, and the implications of what it has to present.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://dfontana.github.io/socialimps/topics/privacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dfontana.github.io/socialimps/topics/privacy/</guid>
-      <description>+++ date = &amp;ldquo;2018-04-10&amp;rdquo; draft = false title = &amp;ldquo;Privacy&amp;rdquo; author = &amp;ldquo;Ming&amp;rdquo;
-categories = [&amp;ldquo;Topics&amp;rdquo;] weight = 2 type = &amp;ldquo;post&amp;rdquo; +++
-Privacy in Black Mirror: Hated in the Nation The TV series Black Mirror covers different topics in each episode, including security, data science and robotics. Black Mirror: Hated in the Nation, which is the last episode of this TV series, talks about a controversial topic — privacy.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://dfontana.github.io/socialimps/topics/crime/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dfontana.github.io/socialimps/topics/crime/</guid>
-      <description>+++ date = &amp;ldquo;2018-04-10&amp;rdquo; draft = false title = &amp;ldquo;Crime&amp;rdquo; author = &amp;ldquo;Adam&amp;rdquo;
-categories = [&amp;ldquo;Topics&amp;rdquo;] weight = 2 type = &amp;ldquo;post&amp;rdquo; +++
-Crime in Black Mirror: Hated in the Nation In chapter 7 of the textbook, there is a section on hacking that contains a case study about the Firefox extension, Firesheep. The extension, launched in 2010, makes sidejacking easy, even for people without a technical understanding of what they are actually doing.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://dfontana.github.io/socialimps/topics/freedomofspeech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dfontana.github.io/socialimps/topics/freedomofspeech/</guid>
-      <description>Freedom of Speech in Black Mirror: Hated in the Nation The topic of Freedom of Speech is heavily critiqued in this episode of the British anthology series, Black Mirror. The crux of this episode revolves around a social media hashtag #deathto. The original intent of this hashtag was for every day users of this social media site to express their feelings towards a particular individual. This seems harmless at first - in the United States of America, the First Amendment protects the citizens&amp;rsquo; right to freedom of speech.</description>
     </item>
     
     <item>
