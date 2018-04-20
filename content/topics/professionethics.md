@@ -1,6 +1,13 @@
-+++ date = "2018-04-19" draft = false title = "Professional Ethics" author = "Sam"
++++
+date = "2018-04-19"
+draft = true
+title = "Professional Ethics"
+author = "Sam"
 
-categories = ["Topics"] weight = 2 type = "post" +++
+categories = ["Topics"] 
+weight = 2 
+type = "post" 
++++
 
 Professional Ethics in *Black Mirror: Hated in the Nation*
 ----------------------------------------------------------
