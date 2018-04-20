@@ -6,10 +6,19 @@
     <description>Recent content in Topics on Black Mirror: Hated in the Nation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dfontana.github.io/socialimps/topics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Computer Reliability</title>
+      <link>https://dfontana.github.io/socialimps/topics/reliability/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfontana.github.io/socialimps/topics/reliability/</guid>
+      <description>Computer Reliability in Black Mirror: Hated in the Nation Chapter 8 covers the various way computer systems can be unreliable and the impacts these situations can have on humanity. In Black Mirror, there wasn&amp;rsquo;t a direct case where a software system failed but rather security issues. Yet what is interesting in the case presented by Black Mirror is that the failure of the Drone system is a result of both a rogue ex-employee and a mandatory back door installed by the government.</description>
+    </item>
     
     <item>
       <title>Crime</title>

@@ -6,10 +6,19 @@
     <description>Recent content on Black Mirror: Hated in the Nation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dfontana.github.io/socialimps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Computer Reliability</title>
+      <link>https://dfontana.github.io/socialimps/topics/reliability/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfontana.github.io/socialimps/topics/reliability/</guid>
+      <description>Computer Reliability in Black Mirror: Hated in the Nation Chapter 8 covers the various way computer systems can be unreliable and the impacts these situations can have on humanity. In Black Mirror, there wasn&amp;rsquo;t a direct case where a software system failed but rather security issues. Yet what is interesting in the case presented by Black Mirror is that the failure of the Drone system is a result of both a rogue ex-employee and a mandatory back door installed by the government.</description>
+    </item>
     
     <item>
       <title>Crime</title>
@@ -75,6 +84,15 @@ Synopsis. Key characters:
       
       <guid>https://dfontana.github.io/socialimps/techlist/</guid>
       <description>Smart Home (Karin&amp;rsquo;s Apartment):  Timestamps: 00:00, 05:00 Description: Her apartment features a keypad lock on the front door, lights that turn on as she walks by, and a remote control that can open the blinds as well as turn on other off-screen devices. Category: Existing, perhaps as of the last few years especially. Realistic: Some of this tech exists today and is making its way into the home. For example, this NYTimes article covers some of the ways the items Karin does in her apartment can be done and more (like voice assistants, or using your phone instead of a remote).</description>
+    </item>
+    
+    <item>
+      <title>Presentation Drafting</title>
+      <link>https://dfontana.github.io/socialimps/minutes/meeting4_20/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfontana.github.io/socialimps/minutes/meeting4_20/</guid>
+      <description> Actions Completed  Discussed the site updates Discussed powerpoint topics/outline/plan Created template of powerpoint  Assigned Tasks Topic Posts (Completed by today / nearly done)  Sam: Dividing chapter 9 related info to chapter 8 and 10 posts Synella: Writing chapter 10 post Dylan: Writing chapter 8 post Adam: Outline initial ideas of powerpoint  Presentation  Ming: Slides 1&amp;frasl;2 (Summary &amp;amp; Outline) Adam: Slide 7 (Surveillance) Synella: Slide 5 (Online Responsibility) Sam: Slide 4 (Maker&amp;rsquo;s Intent) Dylan: Slide 6 (Trust in Autonomous items)  </description>
     </item>
     
     <item>
