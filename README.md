@@ -1,3 +1,5 @@
+LINK TO SITE: https://dfontana.github.io/socialimps/
+
 # How to use
 
 Here's how to add content to the site, and then deploy it.
